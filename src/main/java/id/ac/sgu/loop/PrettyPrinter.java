@@ -1,4 +1,4 @@
-package loop;
+package id.ac.sgu.loop;
 
 import java.util.Scanner;
 
